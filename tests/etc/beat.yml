@@ -1,0 +1,8 @@
+################### Flowbeat Configuration Example #########################
+
+############################# Flowbeat ######################################
+
+flowbeat:
+  # Defines how often an event is sent to the output
+  period: 1s
+  path: "/var/log/flowbeat.dat"

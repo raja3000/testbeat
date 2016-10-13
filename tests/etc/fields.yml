@@ -1,0 +1,25 @@
+- key: flowbeat
+  title: flowbeat
+  description:
+  fields:
+    - name: counter
+      type: long
+      required: true
+      description: >
+        PLEASE UPDATE DOCUMENTATION
+    - name: srcip
+      type: text
+    - name: dstip
+      type: text
+    - name: srcport
+      type: text
+    - name: dstport
+      type: text
+    - name: proto
+      type: text
+    - name: bytes
+      type: text
+    - name: packets
+      type: text
+    - name: nwkgroup 
+      type: text

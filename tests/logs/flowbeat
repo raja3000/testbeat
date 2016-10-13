@@ -1,0 +1,15 @@
+2016-10-13T06:50:00-04:00 INFO Home path: [/root/src/github.com/elastic/beats/flowbeat] Config path: [/root/src/github.com/elastic/beats/flowbeat] Data path: [/root/src/github.com/elastic/beats/flowbeat/data] Logs path: [/root/src/github.com/elastic/beats/flowbeat/logs]
+2016-10-13T06:50:00-04:00 INFO Setup Beat: flowbeat; Version: 6.0.0-alpha1
+2016-10-13T06:50:00-04:00 INFO Loading template enabled. Reading template file: /root/src/github.com/elastic/beats/flowbeat/flowbeat.template.json
+2016-10-13T06:50:00-04:00 INFO Loading template enabled for Elasticsearch 2.x. Reading template file: /root/src/github.com/elastic/beats/flowbeat/flowbeat.template-es2x.json
+2016-10-13T06:50:00-04:00 INFO Elasticsearch url: https://192.168.40.156:9200
+2016-10-13T06:50:00-04:00 INFO Activated elasticsearch as output plugin.
+2016-10-13T06:50:00-04:00 INFO Publisher name: sam-vm-02
+2016-10-13T06:50:00-04:00 INFO Flush Interval set to: 1s
+2016-10-13T06:50:00-04:00 INFO Max Bulk Size set to: 50
+2016-10-13T06:50:00-04:00 INFO flowbeat start running.
+2016-10-13T06:50:00-04:00 INFO flowbeat is running! Hit CTRL-C to stop it.
+2016-10-13T06:50:00-04:00 INFO Metrics logging every 30s
+2016-10-13T06:50:04-04:00 INFO Total non-zero values: 
+2016-10-13T06:50:04-04:00 INFO Uptime: 4.013399057s
+2016-10-13T06:50:04-04:00 INFO flowbeat stopped.
